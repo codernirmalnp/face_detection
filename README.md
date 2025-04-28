@@ -34,3 +34,14 @@ This project is a **Flask-based** real-time **face detection and recognition** s
 ```bash
 git clone https://github.com/codernirmalnp/face_detection.git
 cd face_detection
+
+
+2. Create and Activate a Virtual Environment
+bash
+Copy
+Edit
+python -m venv venv
+# On Linux/macOS:
+source venv/bin/activate
+# On Windows:
+venv\Scripts\activate
